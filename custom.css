@@ -1,0 +1,45 @@
+#BannerContainer {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 466px; PADDING-RIGHT: 0px; HEIGHT: 386px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+#BannerTopDiv {
+	Z-INDEX: 0; POSITION: relative; TEXT-ALIGN: right; MARGIN: 0px; WIDTH: 200px; FONT: bold 12px Arial, Helvetica, sans-serif; FLOAT: right; HEIGHT: 60px; COLOR: #000000; TOP: 0px; PADDING-TOP: 3px; LEFT: 0px
+}
+.TopText {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT: bold 12px Arial, Helvetica, sans-serif; COLOR: #000000; PADDING-TOP: 3px
+}
+.TopText A {
+	FONT: bold 12px Arial, Helvetica, sans-serif; COLOR: #000000
+}
+#BannerTextDiv {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 466px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#BannerDiv {
+	POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; TOP: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+.BannerImage {
+	POSITION: relative; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 466px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 386px; BORDER-LEFT-WIDTH: 0px; TOP: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+#simplemodal-overlay {
+	BACKGROUND-COLOR: #000; CURSOR: wait
+}
+#simplemodal-container {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BACKGROUND-COLOR: #fff; WIDTH: 745px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+#simplemodal-container A.modalCloseImg {
+	Z-INDEX: 3200; POSITION: absolute; WIDTH: 25px; DISPLAY: inline; BACKGROUND: url(../img/basic/x.png) no-repeat; HEIGHT: 29px; TOP: -15px; CURSOR: pointer; RIGHT: -18px
+}
+#simplemodal-container #ModalPopUpContent {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; PADDING-TOP: 8px
+}
+#tooltip {
+	Z-INDEX: 100; BORDER-BOTTOM: #cccccc 3px solid; POSITION: absolute; FILTER: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135); BORDER-LEFT: #cccccc 3px solid; PADDING-BOTTOM: 8px; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 8px; WIDTH: 200px; PADDING-RIGHT: 8px; VISIBILITY: hidden; BORDER-TOP: #cccccc 3px solid; BORDER-RIGHT: #cccccc 3px solid; PADDING-TOP: 8px
+}
+TABLE.tablesorter TH A {
+	BACKGROUND-IMAGE: url(/te_res/bg.gif); TEXT-ALIGN: center; PADDING-RIGHT: 20px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: right center; CURSOR: pointer; TEXT-DECORATION: none
+}
+TABLE.tablesorter THEAD TR .headerSortUp A {
+	BACKGROUND-IMAGE: url(/te_res/asc.gif)
+}
+TABLE.tablesorter THEAD TR .headerSortDown A {
+	BACKGROUND-IMAGE: url(/te_res/desc.gif)
+}

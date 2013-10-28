@@ -1,0 +1,21 @@
+SPAN.DropDownList {
+	POSITION: relative; FONT-FAMILY: tahoma; FONT-SIZE: 10px; OVERFLOW: hidden
+}
+SPAN.DropDownList .DropDownListItems {
+	BORDER-BOTTOM: #cccccc 1px solid; POSITION: absolute; BORDER-LEFT: #cccccc 1px solid; BACKGROUND-COLOR: #999999; MARGIN-TOP: 2px; VISIBILITY: hidden; COLOR: #ffffff; MARGIN-LEFT: 5px; OVERFLOW: hidden; BORDER-TOP: #cccccc 1px solid; TOP: 15px; BORDER-RIGHT: #cccccc 1px solid; LEFT: 0px
+}
+SPAN.DropDownList .DropDownListItems A {
+	FONT-FAMILY: tahoma; COLOR: #ffffff; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+SPAN.DropDownList .DropDownListItems A:visited {
+	FONT-FAMILY: tahoma; COLOR: #ffffff; TEXT-DECORATION: none
+}
+SPAN.DropDownList .DropDownListItems A:hover {
+	FONT-FAMILY: tahoma; COLOR: #ffffff; TEXT-DECORATION: none
+}
+SPAN.DropDownList .DropDownListItem {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; WIDTH: 100%; HEIGHT: 16px; PADDING-TOP: 1px
+}
+SPAN.DropDownList .DropDownListItemHighlight {
+	PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #888888; PADDING-LEFT: 5px; WIDTH: 100%; HEIGHT: 16px; PADDING-TOP: 1px
+}

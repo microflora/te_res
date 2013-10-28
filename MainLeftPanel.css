@@ -1,0 +1,93 @@
+TD.MainLeftPanelBgRepeat {
+	BACKGROUND: url(/te_res/MainLeftPanelBgRepeat.jpg) #7e7e7e repeat-y
+}
+SPAN.SearchText {
+	POSITION: relative; COLOR: #ffffff; FONT-SIZE: 10px; TOP: -2px
+}
+INPUT.SearchRadioButton01 {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 5px
+}
+INPUT.SearchRadioButton02 {
+	
+}
+INPUT.SearchTextField {
+	BORDER-BOTTOM: #666666 1px solid; BORDER-LEFT: #666666 1px solid; WIDTH: 87px; COLOR: #333333; FONT-SIZE: 12px; BORDER-TOP: #666666 1px solid; BORDER-RIGHT: #666666 1px solid
+}
+DIV.LeftNavigation {
+	PADDING-BOTTOM: 0px; TEXT-INDENT: 0px; MARGIN: 0px 0px 50px; PADDING-LEFT: 0px; WIDTH: 200px; PADDING-RIGHT: 0px; FONT: 11px/16px Arial, Helvetica, sans-serif; PADDING-TOP: 0px
+}
+DIV.LeftNavMediumBg {
+	MARGIN-BOTTOM: 1px; BACKGROUND: #d2d2d2
+}
+DIV.LeftNavDarkBg {
+	MARGIN-BOTTOM: 0px; BACKGROUND: #bebebe
+}
+DIV.LeftNavLightBg {
+	MARGIN-BOTTOM: 0px; BACKGROUND: url(/te_res/LeftNavActiveAreaBgRepeat.jpg) #eeeeee repeat-y
+}
+DIV.LeftNavActiveBg {
+	MARGIN-BOTTOM: 1px; BACKGROUND: #ffffff
+}
+DIV.LeftNavArrowRt {
+	POSITION: relative; PADDING-BOTTOM: 1px; MARGIN: 0px
+}
+IMG.LeftNavArrowRt {
+	POSITION: absolute; TOP: -1px; LEFT: 183px
+}
+DIV.LeftNavArrowRtOver {
+	MARGIN: 0px; BACKGROUND: url(/te_res/LeftNavArrowRightOver.gif) no-repeat right 50%
+}
+DIV.LeftNavArrowDn {
+	PADDING-BOTTOM: 1px; MARGIN: 0px; BACKGROUND: url(/te_res/LeftNavArrowDown.gif) no-repeat right 50%
+}
+DIV.LeftNavArrowDnOver {
+	MARGIN: 0px; BACKGROUND: url(/te_res/LeftNavArrowDownOver.gif) no-repeat right 50%
+}
+DIV.LeftNavArrowNa {
+	PADDING-BOTTOM: 1px; MARGIN: 0px; BACKGROUND: url(/te_res/Spacer.gif) no-repeat right 50%
+}
+P.LeftNavLevel01 {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 17px; PADDING-TOP: 3px
+}
+P.LeftNavLevel02 {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 12px; PADDING-RIGHT: 17px; PADDING-TOP: 3px
+}
+P.LeftNavLevel03 {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 16px; PADDING-RIGHT: 17px; PADDING-TOP: 3px
+}
+P.LeftNavLevel04 {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 17px; PADDING-TOP: 3px
+}
+P.LeftNavLevel05 {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 24px; PADDING-RIGHT: 17px; PADDING-TOP: 3px
+}
+P.LeftNavLevel06 {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 28px; PADDING-RIGHT: 17px; PADDING-TOP: 3px
+}
+P.LeftNavLevel07 {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 32px; PADDING-RIGHT: 17px; PADDING-TOP: 3px
+}
+P.LeftNavLevel08 {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 36px; PADDING-RIGHT: 17px; PADDING-TOP: 3px
+}
+P.LeftNavLevel09 {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 40px; PADDING-RIGHT: 17px; PADDING-TOP: 3px
+}
+P.LeftNavLevel10 {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 44px; PADDING-RIGHT: 17px; PADDING-TOP: 3px
+}
+DIV.LeftNavigation A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+DIV.LeftNavigation A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+DIV.LeftNavigation A:hover {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+DIV.LeftNavReflect {
+	MARGIN-TOP: -1px; MARGIN-BOTTOM: 20px; BACKGROUND: url(/te_res/LeftNavReflect.jpg) no-repeat; HEIGHT: 20px
+}
+DIV.LeftNavItem {
+	POSITION: absolute; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}

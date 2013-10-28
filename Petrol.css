@@ -1,0 +1,105 @@
+DIV.Petrol H1 {
+	TEXT-TRANSFORM: uppercase; MARGIN-TOP: 25px; FONT: 19px/22px Arial Black, Arial, Helvetica, sans-serif; MARGIN-BOTTOM: 25px; LETTER-SPACING: -0.05em; COLOR: #156570
+}
+DIV.Petrol H3 {
+	COLOR: #156570
+}
+DIV.Petrol H4 {
+	COLOR: #156570
+}
+DIV.Petrol H5 {
+	COLOR: #156570
+}
+DIV.Petrol H6 {
+	COLOR: #156570
+}
+DIV.Petrol .DataTableTH {
+	BACKGROUND: url(/te_res/DataTableTHBgRepeatPetrol.jpg) #dce8ea repeat-x
+}
+DIV.Petrol .DataTableRow01 {
+	BACKGROUND: #dce8ea
+}
+DIV.Petrol .DataTableRow02 {
+	BACKGROUND: #d0e0e2
+}
+DIV.Petrol .DataTableFooter {
+	BACKGROUND: url(/te_res/DataTableFooterBgRepeatPetrol.jpg) repeat-x
+}
+DIV.Petrol .LogoBkgd {
+	BORDER-BOTTOM: #dce8ea 1px solid; BORDER-LEFT: #dce8ea 1px solid; MARGIN: 0px; BACKGROUND: #ffffff; BORDER-TOP: #dce8ea 1px solid; BORDER-RIGHT: #dce8ea 1px solid
+}
+DIV.Petrol LI {
+	LIST-STYLE-IMAGE: url(/te_res/BulletPetrol.gif)
+}
+DIV.Petrol LI LI {
+	LIST-STYLE-IMAGE: url(/te_res/BulletPetrol.gif)
+}
+TABLE.TabTablePetrol {
+	BACKGROUND: #dce8ea
+}
+.TabActivePetrol {
+	PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BACKGROUND: url(/te_res/TabActiveBgRepeatPetrol.jpg) repeat-x; VERTICAL-ALIGN: top; PADDING-TOP: 8px
+}
+.TabInactiveCenterPetrol {
+	PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BACKGROUND: url(/te_res/TabInactiveBgRepeatPetrol.jpg) #c4c5c6 repeat-x; VERTICAL-ALIGN: top; PADDING-TOP: 8px
+}
+.TabInactiveEndPetrol {
+	BACKGROUND: #c4c5c6
+}
+.TabSpacerPetrol {
+	BACKGROUND: url(/te_res/TabSpacerBgRepeatPetrol.jpg) #ffffff repeat-x
+}
+.TabTableFooterPetrol {
+	BACKGROUND: url(/te_res/TabFooterBgRepeatPetrol.jpg) repeat-x; HEIGHT: 34px
+}
+.TabActivePetrol_TwoLine {
+	BACKGROUND: url(/te_res/TabActiveBgRepeatPetrol_TwoLine.jpg) repeat-x; VERTICAL-ALIGN: top; PADDING-TOP: 8px
+}
+.TabInactiveCenterPetrol_TwoLine {
+	BACKGROUND: url(/te_res/TabInactiveBgRepeatPetrol_TwoLine.jpg) #c4c5c6 repeat-x; VERTICAL-ALIGN: top; PADDING-TOP: 8px
+}
+.TabInactiveEndPetrol_TwoLine {
+	BACKGROUND: #c4c5c6
+}
+.TabSpacerPetrol_TwoLine {
+	BACKGROUND: url(/te_res/TabSpacerBgRepeatPetrol_TwoLine.jpg) #ffffff repeat-x
+}
+.TabProcessActivePetrol {
+	BACKGROUND: url(/te_res/TabProcessActiveBgRepeatPetrol.jpg) repeat-x; VERTICAL-ALIGN: top; PADDING-TOP: 8px
+}
+.TabProcessInactivePetrol {
+	BACKGROUND: url(/te_res/TabProcessInactiveBgRepeatPetrol.jpg) repeat-x; VERTICAL-ALIGN: top; PADDING-TOP: 8px
+}
+.TabProcessInactiveCenterPetrol {
+	BACKGROUND: url(/te_res/TabProcessInactiveBgRepeatPetrol.jpg) #c4c5c6 repeat-x; VERTICAL-ALIGN: top; PADDING-TOP: 8px
+}
+.TabProcessInactiveEndPetrol {
+	BACKGROUND: #c4c5c6
+}
+TD.ButtonPetrol {
+	FONT: bold 11px Tahoma, Arial, Helvetica, sans-serif; BACKGROUND: url(/te_res/ButtonBgRepeatPetrol.jpg) #156570 repeat-x
+}
+TD.ButtonPetrol A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+TD.ButtonPetrol A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+TD.ButtonPetrol A:hover {
+	COLOR: #b9d1d4; TEXT-DECORATION: none
+}
+.FontPetrol {
+	COLOR: #156570
+}
+DIV.Petrol TD.PhotoColorOverlay {
+	FILTER: alpha(opacity=90); BACKGROUND-COLOR: #156570; -moz-opacity: 0.8; opacity: 0.8
+}
+DIV.Petrol TD.PhotoImageOverlay {
+	BACKGROUND: url(/te_res/TransparentOverlayPetrol.png)
+}
+.DivLeft {
+	WIDTH: 50%; FLOAT: left; HEIGHT: 75px
+}
+.DivRight {
+	WIDTH: 50%; FLOAT: left; HEIGHT: 75px
+}

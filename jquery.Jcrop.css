@@ -1,0 +1,30 @@
+.jcrop-holder {
+	TEXT-ALIGN: left
+}
+.jcrop-vline {
+	POSITION: absolute; BACKGROUND: white left top; FONT-SIZE: 0px
+}
+.jcrop-hline {
+	POSITION: absolute; BACKGROUND: white left top; FONT-SIZE: 0px
+}
+.jcrop-vline {
+	WIDTH: 1px !important; HEIGHT: 100%
+}
+.jcrop-hline {
+	WIDTH: 100%; HEIGHT: 1px !important
+}
+.jcrop-handle {
+	BORDER-BOTTOM: #eee 1px solid; BORDER-LEFT: #eee 1px solid; BACKGROUND-COLOR: #333; WIDTH: 7px !important; HEIGHT: 7px !important; FONT-SIZE: 1px; BORDER-TOP: #eee 1px solid; BORDER-RIGHT: #eee 1px solid
+}
+.jcrop-tracker {
+	BACKGROUND-COLOR: gray; WIDTH: 100%; HEIGHT: 100%
+}
+.custom .jcrop-vline {
+	BACKGROUND: yellow
+}
+.custom .jcrop-hline {
+	BACKGROUND: yellow
+}
+.custom .jcrop-handle {
+	BORDER-BOTTOM-COLOR: black; BACKGROUND-COLOR: #c7bb00; BORDER-TOP-COLOR: black; BORDER-RIGHT-COLOR: black; BORDER-LEFT-COLOR: black; -moz-border-radius: 3px; -webkit-border-radius: 3px
+}

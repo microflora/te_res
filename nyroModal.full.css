@@ -1,0 +1,66 @@
+DIV#nyroModalFull {
+	COLOR: #777; FONT-SIZE: 12px
+}
+DIV#nyroModalFull DIV#nyroModalLoading {
+	BORDER-BOTTOM: #777 4px solid; BORDER-LEFT: #777 4px solid; TEXT-INDENT: -9999em; WIDTH: 150px; BACKGROUND: url(/te_res/ajaxLoader.gif) #fff no-repeat center 50%; HEIGHT: 150px; BORDER-TOP: #777 4px solid; BORDER-RIGHT: #777 4px solid
+}
+DIV#nyroModalFull DIV.error#nyroModalLoading {
+	BORDER-BOTTOM: #f66 4px solid; BORDER-LEFT: #f66 4px solid; PADDING-BOTTOM: 20px; LINE-HEIGHT: 20px; TEXT-INDENT: 0px; PADDING-LEFT: 20px; WIDTH: 300px; PADDING-RIGHT: 20px; BACKGROUND: #fff; HEIGHT: 100px; BORDER-TOP: #f66 4px solid; BORDER-RIGHT: #f66 4px solid; PADDING-TOP: 20px
+}
+DIV#nyroModalFull DIV#nyroModalWrapper {
+	BORDER-BOTTOM: #777 4px solid; BORDER-LEFT: #777 4px solid; BACKGROUND: #fff; BORDER-TOP: #777 4px solid; BORDER-RIGHT: #777 4px solid
+}
+DIV#nyroModalFull DIV#nyroModalWrapper A#closeBut {
+	POSITION: absolute; TEXT-INDENT: -9999em; OUTLINE-WIDTH: 0px; WIDTH: 12px; DISPLAY: block; BACKGROUND: url(/te_res/close.gif) no-repeat; HEIGHT: 12px; TOP: -13px; RIGHT: -13px
+}
+DIV#nyroModalFull DIV#nyroModalWrapper H1#nyroModalTitle {
+	POSITION: absolute; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #ddd; FONT-SIZE: 12px; TOP: -22px; PADDING-TOP: 0px; LEFT: 5px
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV#nyroModalContent {
+	OVERFLOW: auto
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV.wrapper DIV#nyroModalContent {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV.wrapperImg DIV#nyroModalContent {
+	POSITION: relative; TEXT-ALIGN: center; OVERFLOW: hidden
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV.wrapperImg DIV#nyroModalContent IMG {
+	VERTICAL-ALIGN: baseline
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV.wrapperImg DIV#nyroModalContent DIV {
+	BORDER-BOTTOM: white 1px dotted; POSITION: absolute; FILTER: alpha(opacity=20); BORDER-LEFT: white 1px dotted; PADDING-BOTTOM: 10px; MARGIN: 10px; PADDING-LEFT: 10px; BOTTOM: 0px; PADDING-RIGHT: 10px; BACKGROUND: black; OVERFLOW: hidden; BORDER-TOP: white 1px dotted; BORDER-RIGHT: white 1px dotted; PADDING-TOP: 10px; LEFT: 0px; opacity: 0.2
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV.wrapperImg DIV#nyroModalContent DIV:hover {
+	FILTER: alpha(opacity=50); CURSOR: help; opacity: 0.5
+}
+DIV#nyroModalFull DIV#nyroModalWrapper A.nyroModalPrev {
+	Z-INDEX: 105; POSITION: absolute; TEXT-INDENT: -9999em; OUTLINE-STYLE: none; WIDTH: 40%; BACKGROUND: url(data:image/gif;base64,AAAA) no-repeat left 20%; HEIGHT: 100%; TOP: 0px; CURSOR: pointer
+}
+DIV#nyroModalFull DIV#nyroModalWrapper A.nyroModalNext {
+	Z-INDEX: 105; POSITION: absolute; TEXT-INDENT: -9999em; OUTLINE-STYLE: none; WIDTH: 40%; BACKGROUND: url(data:image/gif;base64,AAAA) no-repeat left 20%; HEIGHT: 100%; TOP: 0px; CURSOR: pointer
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV.wrapperSwf A.nyroModalPrev {
+	WIDTH: 20%; HEIGHT: 60%
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV.wrapperSwf A.nyroModalNext {
+	WIDTH: 20%; HEIGHT: 60%
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV.wrapper A.nyroModalPrev {
+	WIDTH: 20%; HEIGHT: 60%
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV.wrapper A.nyroModalNext {
+	WIDTH: 20%; HEIGHT: 60%
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV#nyroModalContent A.nyroModalPrev {
+	LEFT: 0px
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV#nyroModalContent A.nyroModalPrev:hover {
+	BACKGROUND-IMAGE: url(/te_res/prev.gif)
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV#nyroModalContent A.nyroModalNext {
+	BACKGROUND-POSITION: right 20%; RIGHT: 0px
+}
+DIV#nyroModalFull DIV#nyroModalWrapper DIV#nyroModalContent A.nyroModalNext:hover {
+	BACKGROUND-IMAGE: url(/te_res/next.gif)
+}

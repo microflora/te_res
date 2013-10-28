@@ -1,0 +1,30 @@
+DIV.LanguageSelectorFlyout {
+	Z-INDEX: 31; POSITION: absolute; TEXT-ALIGN: left; PADDING-BOTTOM: 0px; TEXT-INDENT: 0px; PADDING-LEFT: 2px; WIDTH: 170px; PADDING-RIGHT: 0px; FONT: 11px/16px Arial, Helvetica, sans-serif; VERTICAL-ALIGN: middle; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+DIV.LeftNavFlyout {
+	Z-INDEX: 32; POSITION: absolute; TEXT-ALIGN: left; PADDING-BOTTOM: 0px; TEXT-INDENT: 0px; PADDING-LEFT: 0px; WIDTH: 200px; PADDING-RIGHT: 0px; DISPLAY: none; FONT: 11px/16px Arial, Helvetica, sans-serif; VERTICAL-ALIGN: middle; OVERFLOW: hidden; TOP: 126px; PADDING-TOP: 0px
+}
+DIV.YourWorkspaceFlyout {
+	Z-INDEX: 33; POSITION: absolute; TEXT-ALIGN: left; PADDING-BOTTOM: 0px; TEXT-INDENT: 0px; MARGIN: 0px 0px 50px 30px; PADDING-LEFT: 0px; WIDTH: 170px; PADDING-RIGHT: 0px; FONT: 11px/16px Arial, Helvetica, sans-serif; OVERFLOW: hidden; TOP: 126px; PADDING-TOP: 0px
+}
+A.FlyoutBg {
+	LINE-HEIGHT: 28px; WIDTH: 200px; DISPLAY: block; BACKGROUND: #f9dd99; HEIGHT: 23px; COLOR: #000000; VERTICAL-ALIGN: middle; OVERFLOW: hidden; TEXT-DECORATION: none
+}
+A.FlyoutBg:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.FlyoutBg:hover {
+	LINE-HEIGHT: 28px; DISPLAY: block; BACKGROUND: #f3bc33; HEIGHT: 23px; COLOR: #000000; VERTICAL-ALIGN: middle; TEXT-DECORATION: none
+}
+SPAN.FlyoutLevel01 {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 10px; WIDTH: 200px; PADDING-RIGHT: 10px; HEIGHT: 23px; OVERFLOW: hidden; PADDING-TOP: 3px
+}
+SPAN.FlyoutLevel011 {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 12px; WIDTH: 200px; PADDING-RIGHT: 10px; HEIGHT: 23px; OVERFLOW: hidden; PADDING-TOP: 3px
+}
+DIV.FlyoutBgSpacer {
+	MARGIN-BOTTOM: 0px; BACKGROUND: #f9dd99; HEIGHT: 10px
+}
+DIV.FlyoutDividerLine {
+	PADDING-LEFT: 7px; MARGIN-BOTTOM: 0px; BACKGROUND: url(/te_res/FlyoutDividerLine.gif) #f9dd99 no-repeat
+}
